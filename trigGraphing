@@ -1,0 +1,32 @@
+import math
+import matplotlib.pyplot as plt
+
+def graphing_trigonometric_functions():
+    # Generate x values from 0 to 2π with step 0.1
+    x_values = [x * 0.1 for x in range(0, 63)]
+    sin_values = [math.sin(x) for x in x_values]
+    cos_values = [math.cos(x) for x in x_values]
+    tan_values = [math.tan(x) for x in x_values]
+
+    # Plotting the functions
+    plt.figure(figsize=(10, 6))
+
+    plt.plot(x_values, sin_values, label='sin(x)', color='blue')
+    plt.plot(x_values, cos_values, label='cos(x)', color='red')
+    plt.plot(x_values, tan_values, label='tan(x)', color='green')
+
+    # Adding labels and title
+    plt.xlabel('x (radians)')
+    plt.ylabel('Function value')
+    plt.title('Trigonometric Functions')
+    plt.axhline(0, color='black', linewidth=0.5)
+    plt.axvline(0, color='black', linewidth=0.5)
+    plt.ylim(-2, 2)  # Limit the y-axis for better visualization of tan(x)
+    plt.grid(True)
+    plt.legend()
+
+    # Display the plot
+    plt.show()
+
+# Call the function to display the plot
+graphing_trigonometric_functions()
