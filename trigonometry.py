@@ -59,7 +59,7 @@ Understanding these topics provides a solid foundation in trigonometry, useful f
 
 Below is a Python script that demonstrates how to calculate or work with each of the ten key topics in trigonometry.
 
-```python
+```
 import math
 import cmath
 
