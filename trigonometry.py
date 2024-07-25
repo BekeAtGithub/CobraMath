@@ -1,4 +1,4 @@
-Trigonometry is a branch of mathematics that studies the relationships between the angles and sides of triangles. Here are some key topics in trigonometry:
+'''Trigonometry is a branch of mathematics that studies the relationships between the angles and sides of triangles. Here are some key topics in trigonometry:
 
 1. **Basic Trigonometric Functions**:
    - Sine (sin)
@@ -59,7 +59,7 @@ Understanding these topics provides a solid foundation in trigonometry, useful f
 
 Below is a Python script that demonstrates how to calculate or work with each of the ten key topics in trigonometry.
 
-```
+'''
 import math
 import cmath
 
@@ -152,6 +152,7 @@ print("Trigonometric Form of Complex Numbers (1 + 1j):", trigonometric_form_of_c
 print("Analytic Trigonometry:", analytic_trigonometry(angle))
 print("Vectors and Trigonometry (dot product of [1, 2, 3] and [4, 5, 6]):", vectors_and_trigonometry([1, 2, 3], [4, 5, 6]))
 print("Polar Coordinates and Parametric Equations (r=5, θ=45°):", polar_coordinates_and_parametric_equations(5, 45))
-```
+'''
 
 This script covers the calculation and demonstration of each key topic in trigonometry mentioned earlier. It provides a solid basis for further exploration and application of trigonometric concepts.
+'''
