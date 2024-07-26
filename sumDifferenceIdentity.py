@@ -65,7 +65,7 @@ results = verify_sum_and_difference_identities(angle_a, angle_b)
 
 for identity, verified in results.items():
     print(f"{identity}: {'Verified' if verified else 'Not Verified'}")
-
+'''
 Explanation:
 
     angle_a_degrees, angle_b_degrees: The angles aa and bb in degrees for which the identities are verified.
@@ -75,3 +75,4 @@ Explanation:
     cos_a_plus_b, cos_a_minus_b: The cosine of the sum and difference of angles aa and bb.
     tan_a_plus_b, tan_a_minus_b: The tangent of the sum and difference of angles aa and bb.
     Verification: Each identity is verified by checking if the calculated values are close to the values obtained using the math functions, within a relative tolerance.
+'''
