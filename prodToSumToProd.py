@@ -84,7 +84,7 @@ for identity, verified in results_product_to_sum.items():
 print("\nSum-to-Product Identities:")
 for identity, verified in results_sum_to_product.items():
     print(f"{identity}: {'Verified' if verified else 'Not Verified'}")
-
+'''
 Explanation:
 
     angle_a_degrees, angle_b_degrees: The angles aa and bb in degrees for which the identities are verified.
@@ -93,3 +93,4 @@ Explanation:
     Product-to-Sum Identities: Calculated using the provided formulas.
     Sum-to-Product Identities: Calculated using the provided formulas.
     Verification: Each identity is verified by checking if the calculated values are close to the values obtained using the math functions, within a relative tolerance.
+'''
