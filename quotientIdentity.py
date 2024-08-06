@@ -52,7 +52,7 @@ results = verify_quotient_identities(angle)
 
 for key, value in results.items():
     print(f"{key}: {value}")
-
+'''
 Explanation:
 
     angle_degrees: The angle in degrees for which the identities are verified.
@@ -63,3 +63,4 @@ Explanation:
     tan_func: The tangent of the angle calculated using math.tan().
     cot_func: The cotangent of the angle calculated as the reciprocal of math.tan().
     Verification: The identities are verified by checking if the calculated quotients are close to the values obtained from the math functions, within a relative tolerance.
+'''
