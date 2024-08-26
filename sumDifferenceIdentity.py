@@ -1,5 +1,6 @@
 '''
-The sum and difference identities for trigonometric functions are used to express the trigonometric functions of sums or differences of angles in terms of the functions of the individual angles. Here are the sum and difference identities:
+The sum and difference identities for trigonometric functions are used to express the trigonometric functions of sums or differences of angles in terms of the functions of the individual angles. 
+Here are the sum and difference identities:
 
     sin⁡(a±b)=sin⁡(a)cos⁡(b)±cos⁡(a)sin⁡(b)sin(a±b)=sin(a)cos(b)±cos(a)sin(b)
     cos⁡(a±b)=cos⁡(a)cos⁡(b)∓sin⁡(a)sin⁡(b)cos(a±b)=cos(a)cos(b)∓sin(a)sin(b)
