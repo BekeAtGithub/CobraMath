@@ -53,8 +53,8 @@ results = verify_co_function_identities(angle)
 
 for identity, verified in results.items():
     print(f"{identity}: {'Verified' if verified else 'Not Verified'}")
-
-Explanation:
+'''
+Guide:
 
     angle_degrees: The angle in degrees for which the identities are verified.
     angle_radians: The angle in radians, which is used for trigonometric calculations in Python.
@@ -62,3 +62,4 @@ Explanation:
     sin_theta, cos_theta, etc.: Trigonometric functions of the given angle.
     sin_complementary, cos_complementary, etc.: Trigonometric functions of the complementary angle.
     Verification: Each identity is verified by checking if the trigonometric function of the complementary angle is close to the corresponding function of the original angle, within a relative tolerance.
+'''
