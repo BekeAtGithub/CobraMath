@@ -5,7 +5,7 @@ Co-function identities in trigonometry state that certain trigonometric function
     cos⁡(90∘−θ)=sin⁡(θ)cos(90∘−θ)=sin(θ)
     tan⁡(90∘−θ)=cot⁡(θ)tan(90∘−θ)=cot(θ)
     cot⁡(90∘−θ)=tan⁡(θ)cot(90∘−θ)=tan(θ)
-    sec⁡(90∘−θ)=csc⁡(θ)sec(90∘−θ)=csc(θ)
+    sec⁡(90∘−θ)=csc⁡(θ)sec(90∘−θ)=csc(θ) 
     csc⁡(90∘−θ)=sec⁡(θ)csc(90∘−θ)=sec(θ)
 
 Here's a Python script to verify these co-function identities for a given angle θθ:
