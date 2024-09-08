@@ -1,6 +1,6 @@
 #Intro - Welcome to Calcuatron - a simple calculator script 
 
-#Startup process
+#Startup process 
 #Print lines to the screen to simulate an operating system booting up
 #random OS boot screen stuff
 #maybe a text picture of brand
