@@ -1,4 +1,4 @@
-'''
+''' 
 The quotient identities are:
 
     tan⁡(θ)=sin⁡(θ)cos⁡(θ)tan(θ)=cos(θ)sin(θ)​

@@ -2,7 +2,7 @@ import math
 import matplotlib.pyplot as plt
 
 def graphing_trigonometric_functions():
-    # Generate x values from 0 to 2π with step 0.1
+    # Generate x values from 0 to 2π with step 0.1 
     xValues = [x * 0.1 for x in range(0, 63)] #creates graph range
     sinValues = [math.sin(x) for x in xValues]
     cosValues = [math.cos(x) for x in xValues]

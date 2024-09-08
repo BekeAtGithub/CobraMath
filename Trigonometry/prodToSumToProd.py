@@ -1,4 +1,4 @@
-'''
+''' 
 The product-to-sum and sum-to-product identities in trigonometry are used to transform products of trigonometric functions into sums or differences and vice versa.
 Product-to-Sum Identities:
 
