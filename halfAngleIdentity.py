@@ -54,7 +54,7 @@ results = verify_half_angle_identities(angle)
 
 for identity, verified in results.items():
     print(f"{identity}: {'Verified' if verified else 'Not Verified'}")
-
+'''
 Explanation:
 
     angle_degrees: The angle in degrees for which the identities are verified.
@@ -64,3 +64,4 @@ Explanation:
     sin_half_theta, cos_half_theta, tan_half_theta: The sine, cosine, and tangent of the half angle, respectively.
     sin_half_identity, cos_half_identity, tan_half_identity1, tan_half_identity2, tan_half_identity3: The values calculated using the half-angle identities.
     Verification: Each identity is verified by checking if the calculated values are close to the values obtained using the math functions, within a relative tolerance.
+'''
