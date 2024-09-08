@@ -1,6 +1,6 @@
 '''
 Co-function identities in trigonometry state that certain trigonometric functions of complementary angles are equal. The primary co-function identities are:
-#θ = theta , not a zero
+#θ = theta , not a zero 
     sin⁡(90∘−θ)=cos⁡(θ)sin(90∘−θ)=cos(θ)
     cos⁡(90∘−θ)=sin⁡(θ)cos(90∘−θ)=sin(θ)
     tan⁡(90∘−θ)=cot⁡(θ)tan(90∘−θ)=cot(θ)

@@ -1,4 +1,4 @@
-'''
+''' 
 The sum and difference identities for trigonometric functions are used to express the trigonometric functions of sums or differences of angles in terms of the functions of the individual angles. 
 Here are the sum and difference identities:
 

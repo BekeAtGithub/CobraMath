@@ -1,4 +1,4 @@
-'''
+''' 
 The half-angle identities in trigonometry are used to express trigonometric functions of half-angles in terms of the original angle. Here are the half-angle identities:
 
     sin⁡(θ2)=±1−cos⁡(θ)2sin(2θ​)=±21−cos(θ)​

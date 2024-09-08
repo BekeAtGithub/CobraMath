@@ -1,6 +1,6 @@
 '''Trigonometry is a branch of mathematics that studies the relationships between the angles and sides of triangles. Here are some key topics in trigonometry:
 
-1. **Basic Trigonometric Functions**:
+1. **Basic Trigonometric Functions**: 
    - Sine (sin)
    - Cosine (cos)
    - Tangent (tan)
