@@ -1,4 +1,4 @@
-#Intro - Welcome to Calcuatron - a simple calculator script 
+#Intro - Welcome to Calcuatron - a simple calculator script  
 
 #Startup process 
 #Print lines to the screen to simulate an operating system booting up
