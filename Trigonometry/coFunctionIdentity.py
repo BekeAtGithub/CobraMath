@@ -63,3 +63,4 @@ Guide:
     sin_complementary, cos_complementary, etc.: Trigonometric functions of the complementary angle.
     Verification: Each identity is verified by checking if the trigonometric function of the complementary angle is close to the corresponding function of the original angle, within a relative tolerance.
 '''
+ 
