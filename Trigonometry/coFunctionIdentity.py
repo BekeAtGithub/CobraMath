@@ -9,7 +9,7 @@ Co-function identities in trigonometry state that certain trigonometric function
     csc⁡(90∘−θ)=sec⁡(θ)csc(90∘−θ)=sec(θ)
 
 Here's a Python script to verify these co-function identities for a given angle θθ:
-'''
+''' 
 
 
 import math
