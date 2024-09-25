@@ -1,9 +1,9 @@
-#Intro - Welcome to Calcuatron - a simple calculator script 
+#Intro - Welcome to Calcuatron - a simple calculator script  
 
 #Startup process 
 #Print lines to the screen to simulate an operating system booting up
-#random OS boot screen stuff
-#maybe a text picture of brand
+#random OS boot screen stuff 
+#maybe a text picture of brand 
 #greeting screen where your brand says hello
 from time import sleep
 def Calcuatron():

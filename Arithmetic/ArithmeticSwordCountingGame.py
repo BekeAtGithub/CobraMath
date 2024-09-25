@@ -1,5 +1,5 @@
-#Startup process 
-#Print lines to the screen to simulate an operating system booting up
+#Startup process  
+#Print lines to the screen to simulate an operating system booting up 
 #random OS boot screen stuff
 import re
 from time import sleep

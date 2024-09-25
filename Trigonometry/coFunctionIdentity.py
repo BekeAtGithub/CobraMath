@@ -2,14 +2,14 @@
 Co-function identities in trigonometry state that certain trigonometric functions of complementary angles are equal. The primary co-function identities are:
 #θ = theta , not a zero 
     sin⁡(90∘−θ)=cos⁡(θ)sin(90∘−θ)=cos(θ)
-    cos⁡(90∘−θ)=sin⁡(θ)cos(90∘−θ)=sin(θ)
+    cos⁡(90∘−θ)=sin⁡(θ)cos(90∘−θ)=sin(θ) 
     tan⁡(90∘−θ)=cot⁡(θ)tan(90∘−θ)=cot(θ)
     cot⁡(90∘−θ)=tan⁡(θ)cot(90∘−θ)=tan(θ)
     sec⁡(90∘−θ)=csc⁡(θ)sec(90∘−θ)=csc(θ) 
     csc⁡(90∘−θ)=sec⁡(θ)csc(90∘−θ)=sec(θ)
 
 Here's a Python script to verify these co-function identities for a given angle θθ:
-'''
+''' 
 
 
 import math
@@ -63,3 +63,4 @@ Guide:
     sin_complementary, cos_complementary, etc.: Trigonometric functions of the complementary angle.
     Verification: Each identity is verified by checking if the trigonometric function of the complementary angle is close to the corresponding function of the original angle, within a relative tolerance.
 '''
+ 
