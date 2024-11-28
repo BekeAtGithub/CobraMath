@@ -2,7 +2,7 @@
 
 #Startup process 
 #Print lines to the screen to simulate an operating system booting up
-#random OS boot screen stuff 
+#random OS boot screen stuff  
 #maybe a text picture of brand 
 #greeting screen where your brand says hello
 from time import sleep
